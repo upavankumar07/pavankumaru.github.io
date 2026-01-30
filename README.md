@@ -4,7 +4,7 @@ Welcome to my personal website repository! This project showcases my portfolio, 
 
 🌐 Live Site
 
-You can view the website at: https://upavankumar07.github.io/pavankumaru.github.io
+You can view the website at: https://upavankumar07.github.io/Pavan_Profile/
 
 📁 Project Structure
 
